@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/247
     wikipedia: http://en.wikipedia.org/wiki/Stewart_Edward_White
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32950#Camp-and-Trail
 gutenberg_bookshelf: Camping
 gutenberg_issued: '2010-06-23'
 gutenberg_type: Text
